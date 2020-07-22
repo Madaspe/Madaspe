@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    Hello everyone, I am python/nodejs developer :wave:
+    Hello everyone, I am Danil Treshchev <br><br> python/nodejs developer :wave:
     <br><br>
   </samp>
 </p>
