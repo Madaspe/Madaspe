@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    Hello everyone, I am Danil Treshchev <br><br> Python/NodeJs developer :wave:
+    Hello everyone, I am Danil Treshchev :wave:
     <br><br>
   </samp>
 </p>
@@ -25,7 +25,6 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 
 ---
 
